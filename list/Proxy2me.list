@@ -17,3 +17,15 @@ DOMAIN-SUFFIX,weibocdn.cn
 DOMAIN-SUFFIX,weico.cc
 DOMAIN-SUFFIX,weico.com
 DOMAIN-SUFFIX,xiaoka.tv
+# 内容：TikTok
+USER-AGENT,TikTok*
+DOMAIN-KEYWORD,tiktokcdn-
+DOMAIN-SUFFIX,byteoversea.com
+DOMAIN-SUFFIX,ibytedtos.com
+DOMAIN-SUFFIX,ipstatp.com
+DOMAIN-SUFFIX,muscdn.com
+DOMAIN-SUFFIX,musical.ly
+DOMAIN-SUFFIX,tik-tokapi.com
+DOMAIN-SUFFIX,tiktok.com
+DOMAIN-SUFFIX,tiktokcdn.com
+DOMAIN-SUFFIX,tiktokv.com
